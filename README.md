@@ -1,1 +1,4 @@
 # Book-Recommendation-System
+During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
+
+A recommendation system helps an organization to create loyal customers and build trust with them by providing the products and services they desire. The recommendation system today is so powerful that it can handle the new customer who has visited the site for the first time. They recommend the products that are currently trending or highly rated, and they can also recommend the products that bring maximum profit to the company.
